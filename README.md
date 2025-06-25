@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 2.75rem; color: white; font-weight: bold;">Awesome Cloudflare Containers</p>
+<h1 align="center" style="font-size: 2.75rem; color: white; font-weight: bold;">Awesome Cloudflare Containers</h1>
 
 <p align="center">
   <a href="https://containers.cloudflare.com">Official Site</a> - <a href="https://developers.cloudflare.com/containers">Documentation</a>
