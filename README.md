@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 2.75rem; color: white; font-weight: bold;">Awesome <br/> Cloudflare Containers</p>
+<p align="center" style="font-size: 2.75rem; color: white; font-weight: bold;">Awesome Cloudflare Containers</p>
 
 <p align="center">
   <a href="https://containers.cloudflare.com">Official Site</a> - <a href="https://developers.cloudflare.com/containers">Documentation</a>
@@ -12,8 +12,12 @@ ___
 
 ## Official
 
-- [`@cloudflare/containers`](https://github.com/cloudflare/containers): A class for interacting with Containers on Cloudflare Workers. ![npm](https://api.iconify.design/devicon:npm.svg)
+- [@cloudflare/containers](https://github.com/cloudflare/containers)
+
+  A class for interacting with Containers on Cloudflare Workers. ![npm](https://api.iconify.design/devicon:npm.svg)
 
 ## Community
 
-- [Claude Code Containers](https://github.com/ghostwriternr/claude-code-containers): Use Claude Code on Cloudflare to solve GitHub issues.
+- [Claude Code Containers](https://github.com/ghostwriternr/claude-code-containers)
+
+  Use Claude Code on Cloudflare to solve GitHub issues.
